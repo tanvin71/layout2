@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top-header {
+    background: gray;
+    overflow: hidden;
+    padding: 20px 0;
+    text-align: center;
+
+}
+
+.logo{
+    width: 30%;
+    border: 1px solid #000000;
+    float: left;
+
+}
+.banner {
+    width: 69%;
+    border: 1px solid #000000;  
+    float: right;
+}
+header {
+    background: #ccaa2e;
+    margin-top: 10px;
+    padding: 20px 0;
+    text-align: center;
+}
+.content {
+    background: #009688b8;
+    overflow: hidden;
+    height: 400px;
+    margin-top: 10px;
+    text-align: center;
+}
+.left-block {
+    width: 24%;
+    float:  left;
+    border:  2px solid #000000;
+    height: 100%;
+    box-sizing: border-box;
+    
+}
+.center-block {
+    width:  49%;
+    border: 2px solid #000000;
+    float: left;
+    margin-left: 1%;
+    height: 100%;
+    box-sizing: border-box;
+}
+.right-block {
+    width: 25%;
+    border: 2px solid #000000;
+    float: right;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+.center-top{
+    height: 100px;
+    border-bottom: 1px solid #000000;
+}
+.center-middle{
+    overflow: hidden;
+    height: 200px;
+    border: 1px solid #000000;
+}
+.center-bottom{
+    height: 100px;
+    border: 1px solid #000000;
+}
+.center-left{
+    width: 50%;
+    height: 100%;
+    border: 1px solid #000000;
+    float: left
+}
+.center-right{
+    width: 50%;
+    height: 100%;
+    border: 1px solid #000000;
+    float: right;
+}
+footer{
+    background: #ccaa2e;
+    margin-top: 10px;
+    padding: 20px 0;
+    text-align: center;
+}
